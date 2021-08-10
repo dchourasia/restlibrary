@@ -1,0 +1,7 @@
+{
+  "base-url" : "${base-url}",
+  "username" : "${username}",
+  "password" : "${password}",
+  "SUITE NAME" : "${SUITE NAME}",
+  "SUITE SOURCE" : "${SUITE SOURCE}"
+}

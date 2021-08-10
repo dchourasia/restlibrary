@@ -1,0 +1,13 @@
+{
+    "help": "https://demo.ckan.org/api/3/action/help_show?name=tag_list",
+    "success": true,
+    "result": [
+        "kml",
+        "sample",
+        "pdf",
+        "test",
+        "txt",
+        "csv",
+        "geojson"
+    ]
+}

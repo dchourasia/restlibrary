@@ -1,0 +1,6 @@
+{
+   "name" : "${name}",
+   "email" : "<<<rc, get user details, body, $.data.email>>>",
+   "first_name" : "<<<rc, get user details, body, $.data.first_name>>>",
+   "last_name" : "<<<rc, get user details, body, $.data.last_name>>>"
+}

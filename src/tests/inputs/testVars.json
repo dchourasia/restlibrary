@@ -1,0 +1,5 @@
+{
+  "name" : "${name}",
+  "job" : "${job}",
+  "TEST NAME" : "${TEST NAME}"
+}

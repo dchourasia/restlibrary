@@ -1,0 +1,9 @@
+{
+  "name" : "deepak",
+  "id" : <<<rc, get all users, body, $.data[1].id>>>,
+  "all_ids" : <<<rc, get all users, body, $.data[*]>>>,
+  "first" : <<<rc, get all users, body, $.data[0]>>>,
+  "again_all_ids" : <<<rc, get all users, body, $.data>>>,
+  "once_again_all_ids" : <<<rc, get all users, body, $.data[?(@.id > 9)]>>>,
+  "yet_once_again_all_ids" : <<<rc, get all users, body, $.data[?(@.id > 9)].first_name>>>
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "id": "<<<SKIP>>>",
+        "email": "<<<rc, Get all the users, body, $.data[0].email>>>",
+        "first_name": "<<<rc, Get all the users, body, $.data[0].first_name>>>",
+        "last_name": "<<<rc, Get all the users, body, $.data[0].last_name>>>",
+        "avatar": "https:\\/\\/(.*)-image.jpg"
+    }
+}
